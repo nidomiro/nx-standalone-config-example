@@ -50,7 +50,8 @@
           }
         }
       }
-    }
+    },
+    "test-lib": "libs/test-lib"
   },
   "cli": {
     "defaultCollection": "@nrwl/nest"
